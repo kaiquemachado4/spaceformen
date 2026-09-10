@@ -56,9 +56,14 @@ right: 0;
    border-color: #c78c19;
 
 }
+.produtos li:active{
+   border-color: #088c19;
 
-
-
+}
+.produtos li:hover h2{
+  font-size: 34px;
+  
+}
 
 
 
@@ -75,4 +80,8 @@ right: 0;
     font-size: 18px;
     font-weight: bold;
     margin-top: 10px;
+}
+footer{
+    background-color: #cccccc;
+    text-align: center;
 }
